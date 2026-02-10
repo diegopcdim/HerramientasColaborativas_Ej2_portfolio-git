@@ -70,4 +70,15 @@ Este documento detalla la secuencia de comandos utilizada para la gestión del r
 * [cite_start]**Alias Personalizado:** `git config --global alias.borrar "branch -D"`. 
 
 ##  Evidencia gráfica
-![alt text](img/Ej2_2_4.png) ![alt text](img/Ej2_2_5.png) ![alt text](img/Ej2_3_4.png) ![alt text](img/Ej2_4_4.png) ![alt text](img/Ej2_5_1.png) ![alt text](img/Ej2_5_4.png) ![alt text](img/Ej2_5_5.png) ![alt text](img/Ej2_6_2.png) ![alt text](img/Ej2_6_5.png) ![alt text](img/Ej3_1_1.png) ![alt text](img/Ej3_2_3.png) ![alt text](img/Ej3_2_5.png)
+![alt text](img/Ej2_2_4.png)
+![alt text](img/Ej2_2_5.png)
+![alt text](img/Ej2_3_4.png)
+![alt text](img/Ej2_4_4.png)
+![alt text](img/Ej2_5_1.png) 
+![alt text](img/Ej2_5_4.png)
+![alt text](img/Ej2_5_5.png) 
+![alt text](img/Ej2_6_2.png) 
+![alt text](img/Ej2_6_5.png)
+![alt text](img/Ej3_1_1.png)
+![alt text](img/Ej3_2_3.png) 
+![alt text](img/Ej3_2_5.png)
