@@ -1,5 +1,5 @@
 :root { 
-    --primary: #2c3e50; 
+    --primary: #7f8c8d; 
     --accent: #3498db; 
     --text: #333; 
 }
@@ -15,7 +15,7 @@ body {
     color: white; 
     padding: 1rem; 
     display: flex; 
-    justify-content: space-between; /* Completa esta línea */
+    justify-content: space-between; 
     align-items: center;
 }
 
@@ -31,11 +31,11 @@ body {
     padding: 2rem; 
 }
 
-/* Estilos del Ejercicio 2 */
 .project-card {
     border: 1px solid #ddd;
     padding: 1.5rem;
     border-radius: 8px;
     margin-top: 1rem;
     box-shadow: 2px 2px 10px rgba(0,0,0,0.1);
+    background: white;
 }
